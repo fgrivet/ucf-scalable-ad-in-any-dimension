@@ -1,0 +1,12 @@
+git+https://github.com/fgrivet/CRISTAL
+pyod
+
+numpy
+pandas
+torch
+scikit-learn
+tqdm
+networkx
+
+matplotlib
+seaborn
